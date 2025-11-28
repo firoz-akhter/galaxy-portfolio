@@ -13,7 +13,7 @@ const skills = [
   { name: "Redux", level: 70, category: "Frontend" },
 
   //Backend
-  { name: "Java", level: 80, category: "Backend" },
+  { name: "C++", level: 80, category: "Backend" },
   { name: "MySQL", level: 80, category: "Backend" },
   { name: "MongoDB", level: 70, category: "Backend" },
   { name: "RESTful APIs", level: 70, category: "Backend" },
