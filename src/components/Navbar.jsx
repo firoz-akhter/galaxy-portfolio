@@ -34,7 +34,7 @@ useEffect(()=>{
             href="#hero"
             className='text-xl font-bold text-primary flex items-center'>
                 <span className='relative z-10'>
-                    <span className="text-glow text-foreground">Anika</span> Portfolio
+                    <span className="text-glow text-foreground">Firoz</span> Portfolio
                 </span>
             </a>
 
